@@ -1,1 +1,2 @@
-web: voila --port=$PORT --no-browser
+web: voila --port=$PORT --no-browser --enable_nbextensions=True Bear_Classifier.ipynb
+fast ai Pl
